@@ -1,0 +1,11 @@
+.jumbotron{
+    border-color: grey;
+    border-radius: 2px;
+    align-items: center;
+}
+body{
+    background-image: url("clock.jpg");  
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
